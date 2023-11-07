@@ -1,7 +1,7 @@
 import React from "react";
 const Main = () => {
   return (
-    <div>
+    <div style={{textAlign:'center',fontSize:'15px'}}>
       Email Id: <input type="box" placeholder="Email ID" />
       <br></br>
       Password: <input type="box" placeholder="Password" />

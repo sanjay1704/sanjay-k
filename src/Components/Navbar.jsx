@@ -2,9 +2,9 @@ import React from "react";
 const Navbar=()=>
 {
     return(
-        <div>
+        <div style={{display:'flex',justifyContent:'center'}}>
             <hr></hr>
-            <h1>Your Name</h1>
+           <center><h1>Your Name</h1></center> 
             <hr></hr>
         </div>
     );
