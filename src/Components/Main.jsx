@@ -6,9 +6,9 @@ const Main = () => {
       <br></br>
       Password: <input type="box" placeholder="Password" />
       <br></br>
-      Submit <input type="box" placeholder="click" />
+      Submit: <input type="box" placeholder="click" />
       <br></br>
-      click<input type="box" placeholder="click" />
+      click: <input type="box" placeholder="click" />
     </div>
   );
 };
