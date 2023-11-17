@@ -1,8 +1,9 @@
-import BasicForm from "./day2/BasicForm";
+import Counter1 from "./day3/Counter1";
+
  export default function app()
 {         
     return(
 
-      <BasicForm></BasicForm>
+      <Counter1></Counter1>
         );   
 }
