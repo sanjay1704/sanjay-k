@@ -1,9 +1,8 @@
-import Hello from "./day2/Hello";
-
-
-export default function app()
-{
+import BasicForm from "./day2/BasicForm";
+ export default function app()
+{         
     return(
-       <Hello></Hello>
-    );
+
+      <BasicForm></BasicForm>
+        );   
 }
